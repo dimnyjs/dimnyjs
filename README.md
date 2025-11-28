@@ -22,7 +22,7 @@
 <p align="left">I'm Jumario from Brazil, currently trying to work as a remote developer<br><br>
   - 🔭 I’m working as Fullstack Developer<br>
   - 📚 I'm currently learning Nest.js and Next.js<br>
-  - ⚡ In my free time I like to play video games and also i'm trying to learn how to play the eletric keyboard
+  - ⚡ In my free time I like to play video games and also i'm trying to learn how to play the eletric keyboard<br>
   - 📫 How to reach me: jumariojs@gmail.com
 </p>
 
